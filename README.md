@@ -19,6 +19,8 @@ jupyter notebook
 
 Then open the notebook (`.ipynb`) file and start exploring Pandas.
 
+if you are working in VScode
+then:
 ## 📦 Install Pandas
 
 ```bash
